@@ -1,0 +1,49 @@
+.block { /* Обычные блоки */
+  background: #f3f3f3;
+  width: 300px;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+.adblock { /* Рекламный блок */
+  background: #f3f3f3;
+  width: 300px;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+/* Block Head */
+.block_head {
+  height: 7px;
+  background-color: rgb(44, 143, 241);
+  border-radius: 10px 10px 0 0
+}
+
+/* Фото на фон для блока */
+.blockBGphoto {
+    background: url('https://tehnikaportal.ru/wp-content/uploads/2019/12/1.jpg') no-repeat center center;
+    width: auto;
+}
+
+/* Чтобы блоки были в ряд */
+.left_otstup {
+  float: left; /* Право */
+  margin-left: 4.4%;
+  margin-right: 4.4%;
+}
+
+.right_otstup {
+  float: right; /* Лево */
+  margin-left: 4.4%;
+  margin-right: 4.4%;
+}
+
+.top_otstup {
+  display: inline-block;
+  margin-left: 4.4%;
+  margin-right: 4.4%;
+}
+
+.center {
+  text-align: center;
+}
