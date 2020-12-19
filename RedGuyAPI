@@ -1,9 +1,0 @@
-redguyApi.Store().Json().get("nubovikbotxp").then((xp) => {
-xp['630488330055843860'].gifts += 9999999;
-redguyApi.Store().Json().set("nubovikbotxp",xp);
-});
-TOKEN _ " NzgyNDAwMzczMjg4NzMwNjM0.X8LpIQ.rDALYyjNr-K_wcx2N1fJIYFxnR8 "
-API TOKEN " iESmC63KTZme5uICB5CTjFMMQp6VZX8k "
-
-
-
